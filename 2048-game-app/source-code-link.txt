@@ -1,8 +1,8 @@
 🔗 Original Project Repository:
-https://github.com/iam-veermalla/aws-devops-zero-to-hero
+https://github.com/iam-veeramalla/aws-devops-zero-to-hero
 
 📁 This 2048 App is from Day 22:
-https://github.com/iam-veermalla/aws-devops-zero-to-hero/tree/main/day-22
+https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-22
 
 👩‍💻 This project was practiced locally by Suganya for learning purpose only.
 All credits to Abhishek Veeramalla Sir.
