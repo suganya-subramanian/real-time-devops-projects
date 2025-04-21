@@ -8,7 +8,7 @@ This project is a real-time e-commerce microservices application called **RobotS
 
 | Screenshot | Demo Video |
 |------------|------------|
-| ![Screenshot](./screenshots/kubernetes-end-to-end-project-on-eks.png) | [🎥 Click to Watch Demo](./screenshots/Screencast%20From%202025-04-14%2021-29-44.webm) |
+| ![Screenshot](./screenshots/final-output-image-ecommerce-robotshop-project-three-tier-application-on-AWS-EKS.png) | [🎥 Click to Watch Demo](./screenshots/final-output-video-robot-shop-ecommerce-three-tier-application-on-AWS-EKS.webm) |
 
 ---
 
