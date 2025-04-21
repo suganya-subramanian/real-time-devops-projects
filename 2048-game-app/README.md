@@ -1,55 +1,61 @@
-# 🎮 2048 Game Application - DevOps Project
+# 🎮 2048 Game Application – DevOps Deployment Project
 
-This is a real-time hands-on project where I practiced deploying a 2048 Game application using Kubernetes on AWS EKS, following the guidance of **Abhishek Veeramalla Sir's DevOps Zero to Hero series**.
-
-> 📌 Note: This is a practice project forked and executed locally. All credits go to [Abhishek Veeramalla](https://github.com/iam-veeramalla) for the original repository and project structure.
-
----
-## 📸 Project Screenshot
-
-| Final Deployed Game |
-|---------------------|
-| ![2048 Game Screenshot](./screenshots/final-output-picture-of-2048-game-app.png) |
+This project demonstrates how to deploy the popular 2048 Game application using Kubernetes on AWS EKS. It is part of the real-time DevOps practice, focused on building, containerizing, and deploying a frontend-based application in a production-ready environment.
 
 ---
 
-## 🎥 Project Demo Video
+## 📌 Project Details
 
-| Final Deployed Game Video |
-|---------------------------|
-| [🎥 Watch Demo Video](./screenshots/final-output-video-of-my-2048-app.webm) |
+- **Project Goal**: Deploy the 2048 game app using Kubernetes on AWS EKS (Elastic Kubernetes Service) as part of hands-on     DevOps training.
+- **Deployment Target**: AWS Cloud – EKS Cluster
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes (with `kubectl`, `eksctl`, `AWS CLI`)
+- **CI/CD Practice**: Manual steps using real-time tools and YAML manifests
+
+---
+
+## 📂 Project Structure
+
+2048-game-app/ ├── README.md ├── screenshots/ │ ├── final-output-picture-of-2048-game-app.png │ └── final-output-video-of-my-2048-app.webm
 
 
+---
+
+## 📸 Output Screenshot
+
+![2048 Kubernetes Deployment](./screenshots/final-output-picture-of-2048-game-app.png)
+
+🎥 **Demo Video**  
+[Screencast Output Video](./screenshots/final-output-video-of-my-2048-app.webm)
+
+---
 
 ## 🔗 Source Code Reference
 
-The original source and instructions were taken from:
+- **Original Project Repo**:  
+  [Abhishek Veeramalla – DevOps Zero to Hero (Day 22)](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-22)
 
-- GitHub Repo: [aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
-- Day 22 Project: [2048 Game on EKS](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-22)
-
-Please also refer to the [`source-code-link.txt`](./source-code-link.txt) for credits.
-
----
-
-## 📁 Project Summary
-
-| Item                      | Details                                      |
-|---------------------------|----------------------------------------------|
-| 🧩 Application            | 2048 Game                                    |
-| 🚀 Deployment             | Kubernetes on AWS EKS                        |
-| ☁️ Cloud Provider         | AWS                                          |
-| 📦 Containerization Tool  | Docker                                       |
-| 🧪 Tested                 | On my local system (Ubuntu)                  |
-
+- **My Forked Repo** (with deployment practice):  
+  [Suganya’s Practice Repository – Day 22](https://github.com/suganya-subramanian/aws-devops-zero-to-hero/tree/main/day-22)
 
 ---
 
-## 🙋‍♀️ About Me
+## 🧠 What I Practiced
 
-I'm **Suganya**, a DevOps enthusiast, and this is part of my real-time DevOps portfolio.  
-I'm learning deeply by practicing real-world projects step-by-step.  
-This project is part of my `real-time-devops-projects` GitHub repository.
+- Spinning up an EKS Cluster using `eksctl`
+- Building and pushing Docker images
+- Creating deployment and service YAMLs
+- Accessing apps via LoadBalancer service in AWS
+- Working with `kubectl` to manage pods, deployments, and services
 
 ---
 
+## 🙏 Acknowledgement
+
+All credits go to **Abhishek Veeramalla Sir** for his incredible "AWS DevOps Zero to Hero" course.  
+I forked the repository and practiced it on my local system to gain real-time hands-on experience.  
+This project is part of my **DevOps learning journey**.
+
+---
+
+✅ Maintained by [Suganya Subramanian](https://github.com/suganya-subramanian)
