@@ -1,60 +1,60 @@
-# 🛒 RobotShop E-Commerce Application (Deployed on AWS EKS)
+# 🛒 RobotShop E-commerce Application – Deployment on AWS EKS
 
-This is a real-time e-commerce application deployment project, practiced from **Abhishek Veeramalla Sir's** `three-tier-architecture-demo`. The application is deployed on **AWS Elastic Kubernetes Service (EKS)** following a standard three-tier architecture.
-
----
-
-## 📌 Project Goals
-
-- Understand and implement a **three-tier architecture**
-- Practice deploying real-time applications on **AWS EKS**
-- Gain hands-on experience with **Kubernetes**, **Cloud Infrastructure**, and **DevOps tools**
+This project is a real-time e-commerce microservices application called **RobotShop**, deployed on **AWS EKS** as part of the *DevOps Zero to Hero* series by Abhishek Veeramalla. I have practiced this project by forking the original repository and executing the setup in my local and cloud environments.
 
 ---
 
-## 🧰 Tech Stack
+## 📸 Screenshots & Demo
 
-- **Cloud**: AWS (EKS, IAM, VPC, EC2)
-- **Container Orchestration**: Kubernetes (`kubectl`, `eksctl`)
-- **Source Control**: Git & GitHub
-- **Operating System**: Ubuntu (local system)
-- **Others**: Docker, YAML, Terraform (in original)
-
+| Screenshot | Demo Video |
+|------------|------------|
+| ![Screenshot](./screenshots/kubernetes-end-to-end-project-on-eks.png) | [🎥 Click to Watch Demo](./screenshots/Screencast%20From%202025-04-14%2021-29-44.webm) |
 
 ---
 
-## 🖼️ Final Output
+## 📁 Project Structure
 
-Below is the screenshot of the successful deployment:
+This project follows a **three-tier architecture** pattern with the following components:
 
-![Deployed RobotShop Screenshot](./screenshots/final-output-image-ecommerce-robotshop-project-three-tier-application-on-AWS-EKS.png)
-
-
----
-
-## 🎥 Demo Video 
-
-If a project video is recorded, the link will be available here:  
-[View Demo Video](./screenshots/final-output-video-robot-shop-ecommerce-three-tier-application-on-AWS-EKS.webm)
-
+- **Frontend** – Web UI (microservice)
+- **Backend** – REST APIs for different services (catalogue, cart, user, shipping, etc.)
+- **Database Layer** – MongoDB, MySQL, Redis, etc.
+- **Infrastructure** – Managed with Kubernetes manifests, deployed on AWS EKS.
 
 ---
 
-## 📂 Source Code
+## 🔧 Tools & Technologies Used
 
-- 🔗 [Original Repository by Abhishek Veeramalla](https://github.com/iam-veeramalla/three-tier-architecture-demo)
-- 🧪 I have forked and practiced this project for learning purposes only.
-- 📄 [source-code-link.txt](./source-code-link.txt) contains the original source repo.
+- **AWS EKS**
+- **Helm**
+- **Kubernetes**
+- **Docker**
+- **Terraform** (optional)
+- **Monitoring** – Prometheus, Grafana
+- **CI/CD** – GitHub Actions (future integration)
+- **Ingress Controller** – NGINX
+
+---
+
+## 📦 Source Code
+
+- 🔗 **Original Repository by Abhishek Veeramalla:**  
+  [https://github.com/iam-veeramalla/three-tier-architecture-demo](https://github.com/iam-veeramalla/three-tier-architecture-demo)
+
+- 🔗 **My Forked/Practiced Repository:**  
+  [https://github.com/suganya-subramanian/three-tier-architecture-demo](https://github.com/suganya-subramanian/three-tier-architecture-demo)
 
 ---
 
 ## 🙏 Credits
 
-- 💡 Full credit to **Abhishek Veeramalla Sir** for the architecture, YAML files, and guidance.
-- 🙋‍♀️ Practiced by: [Suganya Subramanian](https://github.com/suganya-subramanian)
+All credits go to **Abhishek Veeramalla Sir** for his *DevOps Zero to Hero* YouTube series. This project is a forked version for my learning purpose only.
 
 ---
 
-## 📌 Notes
+## ✨ Author
 
-This repository is part of my **Real-Time DevOps Project Portfolio** to showcase hands-on practice and understanding of real-world cloud-native deployments.
+**Suganya Subramanian**  
+GitHub: [suganya-subramanian](https://github.com/suganya-subramanian)
+
+---
