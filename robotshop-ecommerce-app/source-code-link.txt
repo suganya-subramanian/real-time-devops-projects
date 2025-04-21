@@ -1,1 +1,7 @@
+Original Project Repository: https://github.com/iam-veeramalla/three-tier-architecture-demo
+
+This project was forked and practiced by: https://github.com/suganya-subramanian
+
+All credits go to Abhishek Veeramalla Sir.
+This repository is created only for learning and practice purposes.
 
