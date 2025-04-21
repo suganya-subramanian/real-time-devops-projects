@@ -41,7 +41,7 @@ Please also refer to the [`source-code-link.txt`](./source-code-link.txt) for cr
 | ☁️ Cloud Provider         | AWS                                          |
 | 📦 Containerization Tool  | Docker                                       |
 | 🧪 Tested                 | On my local system (Ubuntu)                  |
-| 🎥 Video Practice         | [Watch my screen-recorded session](../robotshop-ecommerce-app/video-link.txt) *(Optional if you plan to share)*
+
 
 ---
 
