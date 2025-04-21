@@ -10,7 +10,7 @@ This is a real-time hands-on project where I practiced deploying a 2048 Game app
 
 | Final Deployed Game |
 |---------------------|
-| ![2048 Game Screenshot](./screenshots/kubernetes-end-to-end-project-on-eks.png) |
+| ![2048 Game Screenshot](./screenshots/final-output-picture-of-2048-game-app.png) |
 
 ---
 
