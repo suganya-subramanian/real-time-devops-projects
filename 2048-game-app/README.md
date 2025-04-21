@@ -14,6 +14,13 @@ This is a real-time hands-on project where I practiced deploying a 2048 Game app
 
 ---
 
+## 📸 Project demo video
+
+| Final Deployed Game video |
+|---------------------|
+| ![2048 Game execution video](./screenshots/final-output-video of-my-2048-app.webm) |
+
+
 ## 🔗 Source Code Reference
 
 The original source and instructions were taken from:
