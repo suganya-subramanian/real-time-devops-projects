@@ -27,7 +27,7 @@ This is a real-time e-commerce application deployment project, practiced from **
 
 Below is the screenshot of the successful deployment:
 
-![Deployed RobotShop Screenshot](./screenshots/final-output-image-ecommerce-robotshop-project-three tier application on AWS EKS.png)
+![Deployed RobotShop Screenshot](./screenshots/final-output-image-ecommerce-robotshop-project-three-tier-application-on-AWS-EKS.png)
 
 
 ---
@@ -35,7 +35,7 @@ Below is the screenshot of the successful deployment:
 ## 🎥 Demo Video 
 
 If a project video is recorded, the link will be available here:  
-[View Demo Video](./screenshots/final-output-video-robot shop-ecommerce-three tier application on AWS EKS.webm)
+[View Demo Video](./screenshots/final-output-video-robot-shop-ecommerce-three-tier-application-on-AWS-EKS.webm)
 
 
 ---
