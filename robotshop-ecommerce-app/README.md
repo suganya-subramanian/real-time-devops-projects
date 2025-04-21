@@ -27,14 +27,14 @@ This is a real-time e-commerce application deployment project, practiced from **
 
 Below is the screenshot of the successful deployment:
 
-![Deployed RobotShop Screenshot](./screenshots/kubernetes-end-to-end-project-on-eks.png)
+![Deployed RobotShop Screenshot](https://github.com/suganya-subramanian/real-time-devops-projects/blob/main/robotshop-ecommerce-app/screenshots/final-output-image-ecommerce-robotshop-project-three%20tier%20application%20on%20AWS%20EKS.png)
 
 ---
 
 ## 🎥 Demo Video 
 
 If a project video is recorded, the link will be available here:  
-[View Demo Video](./screenshots/Screencast_From_2025-04-14_21-29-44.webm)
+[View Demo Video](https://github.com/suganya-subramanian/real-time-devops-projects/blob/main/robotshop-ecommerce-app/screenshots/final-output-video-robot%20shop-ecommerce-three%20tier%20application%20on%20AWS%20EKS.webm)
 
 ---
 
