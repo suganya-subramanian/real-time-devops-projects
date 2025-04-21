@@ -5,7 +5,6 @@ This is a real-time hands-on project where I practiced deploying a 2048 Game app
 > 📌 Note: This is a practice project forked and executed locally. All credits go to [Abhishek Veeramalla](https://github.com/iam-veeramalla) for the original repository and project structure.
 
 ---
-
 ## 📸 Project Screenshot
 
 | Final Deployed Game |
@@ -14,11 +13,12 @@ This is a real-time hands-on project where I practiced deploying a 2048 Game app
 
 ---
 
-## 📸 Project demo video
+## 🎥 Project Demo Video
 
-| Final Deployed Game video |
-|---------------------|
-| ![2048 Game execution video](./screenshots/final-output-video of-my-2048-app.webm) |
+| Final Deployed Game Video |
+|---------------------------|
+| [🎥 Watch Demo Video](./screenshots/final-output-video-of-my-2048-app.webm) |
+
 
 
 ## 🔗 Source Code Reference
