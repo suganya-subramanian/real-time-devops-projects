@@ -1,6 +1,6 @@
 # 🛒 RobotShop E-commerce Application – Deployment on AWS EKS
 
-This project is a real-time e-commerce microservices application called **RobotShop**, deployed on **AWS EKS** as part of the *DevOps Zero to Hero* series by Abhishek Veeramalla. I have practiced this project by forking the original repository and executing the setup in my local and cloud environments.
+This project is a real-time e-commerce microservices application called **RobotShop**, deployed on **AWS EKS** as part of the *AWS Zero to Hero* series by Abhishek Veeramalla. I have practiced this project by forking the original repository and executing the setup in my local and cloud environments.
 
 ---
 
@@ -48,7 +48,7 @@ This project follows a **three-tier architecture** pattern with the following co
 
 ## 🙏 Credits
 
-All credits go to **Abhishek Veeramalla Sir** for his *DevOps Zero to Hero* YouTube series. This project is a forked version for my learning purpose only.
+All credits go to **Abhishek Veeramalla Sir** for his *DevOps Zero to Hero* and "AWS Zero to Hero" YouTube series. This project is a forked version for my learning purpose only.
 
 ---
 
