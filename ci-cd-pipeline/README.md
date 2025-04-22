@@ -73,4 +73,4 @@ Special thanks to Abhishek Veeramalla Sir for the YouTube series and inspiration
 👩‍💻 Maintained By
 
 Suganya Subramanian
-GitHub Profile
+https://github.com/suganya-subramanian
