@@ -18,8 +18,6 @@ GitHub Link: [simple-node-ci-cd](https://github.com/suganya-subramanian/simple-n
 - [GitHub Actions CI/CD Workflow](#github-actions-cicd-workflow)
 - [Secrets Configuration](#secrets-configuration)
 - [Deployment (Optional)](#deployment-optional)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
