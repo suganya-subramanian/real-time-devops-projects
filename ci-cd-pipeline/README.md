@@ -42,22 +42,16 @@ This is part of my **real-time DevOps projects practice** based on concepts lear
 
 ---
 
-## 📂 Folder Structure
 
-```bash
-ci-cd-pipeline/
-├── README.md
-├── buildspec.yml             # CodeBuild instructions
-├── screenshots/              # Architecture diagram
-└── source-code/              # Static website files (optional or forked)
+## 🔗 Source Code Reference
 
-🔗 Source Code Reference
+- 🔹 **My Repository** (CI/CD Pipeline - Day 14):  
+  [CI/CD Project - Suganya](https://github.com/suganya-subramanian/aws-devops-zero-to-hero/tree/main/day-14)
 
-    🔹 My Repository:
-    CI/CD Pipeline Project
+- 🔹 **Original Repository by Abhishek Veeramalla** (Day 14):  
+  [CI/CD Project - Abhishek Sir](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-14)
 
-    🔹 Original Project by Abhishek Veeramalla:
-    Three-tier Architecture Demo
+
 
 🧠 Learnings & Skills Practiced
 
