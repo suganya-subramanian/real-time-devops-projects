@@ -77,7 +77,7 @@ Now open your browser and navigate to `http://localhost:3000`
 docker build -t simple-node-ci-cd .
 docker run -p 3000:3000 simple-node-ci-cd
 ```
-(./screenshots/picture3.png)
+!(./screenshots/picture3.png)
 ---
 
 ## 📦 Dockerfile
