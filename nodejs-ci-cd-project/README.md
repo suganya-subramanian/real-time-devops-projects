@@ -77,7 +77,8 @@ Now open your browser and navigate to `http://localhost:3000`
 docker build -t simple-node-ci-cd .
 docker run -p 3000:3000 simple-node-ci-cd
 ```
-!(nodejs-ci-cd-project/screenshots/picture3.png)
+![output](https://raw.githubusercontent.com/suganya-subramanian/real-time-devops-projects/main/nodejs-ci-cd-project/screenshots/picture3.png)
+
 ---
 
 ## 📦 Dockerfile
