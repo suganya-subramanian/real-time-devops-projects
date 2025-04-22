@@ -139,7 +139,8 @@ jobs:
       - name: Deploy Application (Optional)
         run: echo "Deployment step here"
 ```
-(./screenshots/Screenshot From 2025-04-22 16-23-56.png)
+![output](https://raw.githubusercontent.com/suganya-subramanian/real-time-devops-projects/main/nodejs-ci-cd-project/screenshots/picture2.png)
+
 ---
 
 ## 🔐 Secrets Configuration
@@ -151,8 +152,8 @@ Go to your GitHub repository:
   - `DOCKER_USERNAME`
   - `DOCKER_PASSWORD`
 
+![output](https://raw.githubusercontent.com/suganya-subramanian/real-time-devops-projects/main/nodejs-ci-cd-project/screenshots/picture1.png)
 
-(./screenshots/Screenshot From 2025-04-22 15-05-59.png)
 
 
 ---
