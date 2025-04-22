@@ -17,7 +17,7 @@ A microservices-based e-commerce application deployed on Kubernetes.
 ### ⚙️ [CI/CD Pipeline on Kubernetes](./ci-cd-pipeline)
 An end-to-end continuous integration and delivery pipeline implemented on EKS using Jenkins, ArgoCD, Docker, and SonarQube.
 
-###[Simple Node.js CI/CD Pipeline](./nodejs-ci-cd-project).
+###[Nodejs CI-CD project](./nodejs-ci-cd-project)
 
 A Node.js web app project with a CI/CD pipeline using Docker and GitHub Actions for automated build and push.
 
