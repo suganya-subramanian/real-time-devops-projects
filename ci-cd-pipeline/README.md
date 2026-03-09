@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline using AWS CodePipeline, CodeBuild, and GitHub
+# CI/CD Pipeline using AWS CodePipeline, CodeBuild, and GitHub
 
 This project demonstrates a complete **CI/CD pipeline on AWS**, integrating **GitHub**, **AWS CodePipeline**, and **CodeBuild** to automate the build and deployment process for a static website hosted on **Amazon S3**.
 
@@ -6,7 +6,7 @@ This is part of my **real-time DevOps projects practice** based on concepts lear
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 | Item                 | Description                                                |
 |----------------------|------------------------------------------------------------|
@@ -20,40 +20,40 @@ This is part of my **real-time DevOps projects practice** based on concepts lear
 
 ---
 
-## 🔄 CI/CD Workflow Explanation
+## CI/CD Workflow Explanation
 
-1. ✅ **Source Stage**  
+1. **Source Stage**  
    - GitHub repo is connected to CodePipeline.
    - Any new push to the main branch triggers the pipeline automatically using webhooks.
 
-2. 🛠️ **Build Stage**  
+2. **Build Stage**  
    - AWS CodeBuild uses `buildspec.yml` to install dependencies, build the project, and prepare the deployment artifacts.
    - Output is stored in an S3 bucket.
 
-3. 🚀 **Deploy Stage**  
+3. **Deploy Stage**  
    - CodePipeline deploys the final output to the target S3 bucket.
    - The bucket is configured for static website hosting, so the application is served directly to users.
 
 ---
 
-## 📸 Screenshot of CI/CD Pipeline
+## Screenshot of CI/CD Pipeline
 
 ![CI/CD Architecture](https://github.com/suganya-subramanian/images/blob/main/Realtime%20project-CICD-using-AWSCodePipeline-AWSservices.png?raw=true)
 
 ---
 
 
-## 🔗 Source Code Reference
+## Source Code Reference
 
-- 🔹 **My Repository** (CI/CD Pipeline - Day 14):  
+- **My Repository** (CI/CD Pipeline - Day 14):  
   [CI/CD Project - Suganya](https://github.com/suganya-subramanian/aws-devops-zero-to-hero/tree/main/day-14)
 
-- 🔹 **Original Repository by Abhishek Veeramalla** (Day 14):  
+- **Original Repository by Abhishek Veeramalla** (Day 14):  
   [CI/CD Project - Abhishek Sir](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-14)
 
 
 
-🧠 Learnings & Skills Practiced
+Learnings & Skills Practiced
 
     Connected GitHub to CodePipeline via webhook triggers
 
@@ -65,8 +65,7 @@ This is part of my **real-time DevOps projects practice** based on concepts lear
 
     Practiced real-time DevOps setup on AWS console
 
-
-👩‍💻 Maintained By
+Maintained By
 
 Suganya Subramanian
 https://github.com/suganya-subramanian
