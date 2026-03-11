@@ -8,7 +8,7 @@ The objective of this project was to automate the build, security scanning, cont
 
 Architecture Diagram
 
-(Add your pipeline architecture image here)
+![CI/CD Pipeline](ci-cd-Diagram.jpg)
 
 Infrastructure Setup
 
