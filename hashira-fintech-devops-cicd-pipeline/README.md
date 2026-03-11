@@ -77,4 +77,55 @@ If the scan passes, the Docker image is pushed to **AWS Elastic Container Regist
 ### 8. Application Deployment
 The **Integration Server** pulls the Docker image from ECR and runs the container on a specific port.
 
-Example application access:
+
+---
+
+## Monitoring & Observability
+
+The monitoring stack was implemented to track **application performance and infrastructure health**.
+
+### Tools Used
+
+- **Prometheus**
+  - Collects system and application metrics
+
+- **Loki**
+  - Aggregates logs from containers
+
+- **Promtail**
+  - Collects logs and sends them to Loki
+
+- **Grafana**
+  - Visualizes metrics and logs through dashboards
+
+### This setup enables real-time monitoring of:
+
+- Application performance
+- System resource usage
+- Container logs
+- Infrastructure health
+
+---
+
+## Tech Stack
+
+| Category | Tools |
+|--------|--------|
+| Cloud Platform | AWS (EC2, IAM, ECR) |
+| CI/CD | Jenkins |
+| Source Control | Bitbucket |
+| Code Quality | SonarQube |
+| Containerization | Docker |
+| Security Scanning | Trivy |
+| Monitoring | Prometheus, Loki, Promtail, Grafana |
+| Operating System | Linux |
+
+---
+
+## Key Learning Outcomes
+
+- Designed and implemented **end-to-end DevOps infrastructure on AWS**
+- Built an **automated CI/CD pipeline integrating multiple DevOps tools**
+- Implemented **container security scanning using Trivy**
+- Configured **observability and monitoring stack using Prometheus and Grafana**
+- Gained hands-on experience managing **cloud infrastructure, containerized deployments, and DevOps workflows**
