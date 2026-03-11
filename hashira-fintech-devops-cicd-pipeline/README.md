@@ -1,6 +1,18 @@
 # End-to-End DevOps Infrastructure & CI/CD Pipeline
 
-## Project Overview
+## Project Summary
+
+| Item | Details |
+|-----|--------|
+| Project Type | Real-time DevOps Infrastructure & CI/CD Pipeline |
+| Client | Hashira Fintech, Singapore |
+| Internship | JOGO Consulting LLP |
+| Cloud Platform | AWS |
+| CI/CD Tools | Jenkins, Bitbucket |
+| Containerization | Docker |
+| Security Scanning | Trivy |
+| Monitoring | Prometheus, Loki, Grafana |
+| Deployment | Linux Integration Server |## Project Overview
 
 This project demonstrates a **complete DevOps infrastructure setup and automated CI/CD pipeline** implemented during my **Software Engineer Internship (DevOps) at JOGO Consulting LLP** for the client **Hashira Fintech (Singapore)**.
 
