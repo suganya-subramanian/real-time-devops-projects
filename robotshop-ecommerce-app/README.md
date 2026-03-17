@@ -36,12 +36,7 @@ This project follows a **three-tier architecture** pattern with the following co
 
 ---
 
-## 📦 Source Code
-
-- 🔗 **Original Repository by Abhishek Veeramalla:**  
-  [https://github.com/iam-veeramalla/three-tier-architecture-demo](https://github.com/iam-veeramalla/three-tier-architecture-demo)
-
-- 🔗 **My Forked/Practiced Repository:**  
+## Source Code
   [https://github.com/suganya-subramanian/three-tier-architecture-demo](https://github.com/suganya-subramanian/three-tier-architecture-demo)
 
 
